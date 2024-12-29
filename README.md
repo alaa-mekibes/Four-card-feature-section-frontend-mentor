@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/four-card-feature-section-using-flex-box-YxNwIkvrvu
 - Live Site URL: https://alaa-mekibes.github.io/Four-card-feature-section-challenge8
 
 ## My process
@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [px to rem & rpx & vw (cssrem)](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem) - This helped me for converting px to rem by Moving the cursor to `npx`, press `Alt + z` to convert rem
+- [px to rem & rpx & vw (cssrem)](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem) - This helped me for converting px to rem by Moving the cursor to `px` value, press `Alt + z` to convert rem
 
 ## Author
 
