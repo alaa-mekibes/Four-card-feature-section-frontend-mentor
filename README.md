@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/four-card-feature-section-using-flex-box-YxNwIkvrvu
-- Live Site URL: https://alaa-mekibes.github.io/Four-card-feature-section-challenge8
+- Live Site URL: https://alaa-mekibes.github.io/Four-card-feature-section-frontend-mentor
 
 ## My process
 
