@@ -42,19 +42,19 @@ p {
     /* container size */
 /* Small */
 @media (min-width: 48rem) {
-    main {
+    .main_container {
         width: 46.875rem
     }
 }
 /* Meduim */
 @media (min-width: 62rem) {
-    main {
+    .main_container {
         width: 60.625rem
     }
 }
 /* Large */
 @media (min-width: 75rem) {
-    main {
+    .main_container {
         width: 73.125rem
     }
 }
